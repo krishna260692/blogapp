@@ -1,0 +1,34 @@
+
+
+header h2 ,h1, p {
+
+color:red
+
+}
+ul a:hover {
+  background-color: #111;
+}
+li a:hover {
+  background-color: green;
+}
+li.left {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+ul.nav {
+
+  list-style-type: none;
+
+  overflow: hidden;
+  background-color: #333;
+}
+
+
